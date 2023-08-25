@@ -10,8 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturxrsousa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xavierrr.eu)
 
-![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierrreu&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavierrreu&layout=donut&theme=gruvbox)](https://github.com/xavierrreu/github-readme-stats)
+![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierrreu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavierrreu&layout=donut&theme=radical)](https://github.com/xavierrreu/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
 
@@ -22,4 +22,5 @@
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="AZ" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </div><br/>
