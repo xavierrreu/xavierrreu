@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)](https://mail.google.com/mail/u/arturxrsousa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturxrsousa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xavierrr.eu)
-[![Website](https://img.shields.io/website?label=Comunidado.com.br&style=for-the-badge&url=https://comunidado.com.br/)](https://comunidado.com.br)
+
 
 ![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierrreu&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavierrreu&layout=donut&theme=dracula)](https://github.com/xavierrreu/github-readme-stats)
